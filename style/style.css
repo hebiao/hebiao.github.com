@@ -23,6 +23,6 @@ div,body,ul,li{margin:0;padding:0}
 		line-height:40px;
 			float:left;
 	}
-	#nav ul li a{display:block;font-size:15px; height:40px;color:#000;
+	#nav ul li a{display:block;font-size:10px; height:40px;color:#000;
 							text-decoration:none;float:left;padding:0 10px;}
 	#nav ul li a:hover{color:#fff;background:#000;}
